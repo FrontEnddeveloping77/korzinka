@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: sans-serif;
 }
+.imggg{
+    width: 100%;
+}
 
 @media screen and (max-width: 431px) {
     header,nav,main,footer,div{
